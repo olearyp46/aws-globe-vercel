@@ -1,0 +1,34 @@
+[
+  {
+    "code": "us-east-1",
+    "name": "US East (N. Virginia)",
+    "lat": 38.9940541,
+    "lng": -77.4524237,
+    "green_score": 72,
+    "carbon_tonnes_per_year": 120000
+  },
+  {
+    "code": "us-west-2",
+    "name": "US West (Oregon)",
+    "lat": 45.523064,
+    "lng": -122.676483,
+    "green_score": 65,
+    "carbon_tonnes_per_year": 98000
+  },
+  {
+    "code": "eu-west-1",
+    "name": "Europe (Ireland)",
+    "lat": 53.33306,
+    "lng": -6.24889,
+    "green_score": 80,
+    "carbon_tonnes_per_year": 75000
+  },
+  {
+    "code": "ap-southeast-1",
+    "name": "Asia Pacific (Singapore)",
+    "lat": 1.352083,
+    "lng": 103.819836,
+    "green_score": 55,
+    "carbon_tonnes_per_year": 140000
+  }
+]
